@@ -1,4 +1,5 @@
 # Miku Miku Beam 💥⚡ (Network Stresser)
+# Modificado por Hugo
 
 A fun and visually appealing stress testing server with a **Miku-themed** frontend, where you can configure and run attacks while enjoying a banger song in the background! 🎤✨
 
@@ -198,3 +199,4 @@ Please note that this project is for educational purposes only and should not be
 ---
 
 ### (｡♥‿♥｡) Happy Hacking 💖🎶
+
